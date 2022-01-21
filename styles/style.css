@@ -24,3 +24,28 @@ header css
   border-radius: 5px;
   color: #fff;
 }
+
+/*---------------------
+ Categories section 
+ -----------------------*/
+.single_category {
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+#category__watch {
+  background-color: #ffa500;
+}
+#category__bag {
+  background-color: #da70d6;
+}
+#category__shoes {
+  background-color: #0000ff;
+}
+/*----------------
+ shoes section 
+ ------------------*/
+.buy__btn {
+  background-image: linear-gradient(90deg, #ff1e76, #ff569a);
+  border: 0;
+}
